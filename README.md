@@ -2,7 +2,7 @@
 
 Writing unit tests for code that uses channels has always been a stumbling block for me.
 
-But today I finally did it. Please see ./internal/cats directory for code and test.
+But today I finally did it. Please see [./internal/cats_test](https://github.com/johnmackenzie91/implementing-go-channels/blob/master/internal/cats/cats_test.go) directory for code and test.
 The key take aways are;
 
 ### The time.After channel
